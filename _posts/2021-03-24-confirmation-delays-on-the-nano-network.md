@@ -17,7 +17,7 @@ Every valid block was getting confirmed instantly before the spam attack and no 
 ![Source: nanoticker.info](https://i.imgur.com/xvnQWAY.png "Source: nanoticker.info")
 *Checked and confirmed blocks were separated at that point. Source: [nanoticker.info](https://nanoticker.info "nanoticker.info")*
 
-The difference between checked blocks and confirmed blocks, which started on March 11, 2020, still continues. As of now, there are nearly 113 million checked and 97 million confirmed blocks.
+The difference between checked blocks and confirmed blocks, which started on 11th March 2021, still continues. As of now, there are nearly 113 million checked and 97 million confirmed blocks.
 
 ### - What's next?
 With the new update of Nano node (V21.3), "several cases where the synchronization process would be restarted or prevented from being restarted were fixed" according to [this article](https://medium.com/nanocurrency/recent-dos-nano-network-attack-and-v21-3-fixes-97b9b7297f9 "this article"). There are still valid and unconfirmed transactions, so the problem persists. We hope to see all the valid transactions on Nano network to get confirmed instantly as on normal days.
