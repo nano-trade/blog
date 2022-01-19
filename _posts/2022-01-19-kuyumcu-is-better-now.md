@@ -1,6 +1,6 @@
 > The best customer service is if the customer doesn't need to call you, doesn't need to talk to you. It just works.
 
-— Jeff Bezos
+&mdash; Jeff Bezos
 
 ## It just works!
 Using Kuyumcu used to require some attention before. Pressing the "Submit" button after sending, not sending more than the maximum, not sending from an exchange... These are no longer needed, you just enter a refund address and if something goes wrong, Kuyumcu will automatically refund you your funds to your refund address.
