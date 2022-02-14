@@ -11,6 +11,7 @@ USDC is a stablecoin that is pegged to the US dollar at 1:1 rate, 1 USDC is rede
 2. Click one of the buttons to buy or sell Nano.
 3. Enter your address that you want to receive coins into, and enter a refund address. As a refund address, you can enter the address that you're sending from. To create a Nano wallet, you can use [Nault.cc](https://nault.cc) as a web wallet or [Natrium](https://natrium.io) as a mobile wallet. To create an Ethereum wallet to receive USDC in the Polygon network, you can use [MetaMask](https://metamask.io) on your PC or [Trust Wallet](https://trustwallet.com/polygon-wallet) on your smartphone. Then press the Continue button.
 4. Send coins to the given deposit address, and click the Submit button after sending. That's it, you'll receive your coins to your address within a few seconds, at the current exchange rate of Kuyumcu.
+
 ## Are there any fees?
 If you're selling USDC, there's a small fee of the Polygon network which usually costs less than $0.01. Other than that, there are no fees. Transactions are carried out at the current exchange rate of Kuyumcu, which can be seen on the buy/sell buttons and on the deposit page.
 ## I have sent USDC but it's not confirmed yet, what should I do?
