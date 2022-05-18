@@ -1,3 +1,10 @@
+---
+layout: post
+title: "USDC is available on Kuyumcu"
+author: "nano.trade"
+tags: USDC
+---
+
 Now, you can use Kuyumcu to trade many coins! [nano.trade](https://nano.trade)
 
 USDC (Polygon network) is now available to buy and sell on Kuyumcu. Swap USDC (Polygon network) with Nano here: [usdc.nano.trade](https://usdc.nano.trade  "Nano/USDC Kuyumcu")  

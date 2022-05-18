@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Reddit Moons are now available on Kuyumcu"
+author: "nano.trade"
+tags: Moons
+---
+
 # Buy and sell Reddit Moons with Nano and Banano!
 
 Reddit Moons (MOON) are now available to buy and sell on Kuyumcu.

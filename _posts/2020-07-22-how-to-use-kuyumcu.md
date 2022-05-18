@@ -1,3 +1,10 @@
+---
+layout: post
+title: "How to use Kuyumcu?"
+author: "nano.trade"
+tags: Kuyumcu
+---
+
 # How to use Kuyumcu? (Tutorial)
 
 There are a few important things to know about Kuyumcu. In this article, it will be described how to use Kuyumcu. Let's get started!

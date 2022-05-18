@@ -1,3 +1,10 @@
+---
+layout: post
+title: "3 Reasons to use Kuyumcu"
+author: "nano.trade"
+tags: Kuyumcu
+---
+
 # 3 Reasons To Use Kuyumcu
 
 Using [Kuyumcu](https://banano.nano.trade/) has many benefits!

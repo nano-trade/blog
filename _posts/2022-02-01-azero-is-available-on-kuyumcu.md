@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Azero is available on Kuyumcu"
+author: "nano.trade"
+tags: Azero
+---
+
 Aleph Zero (AZERO) is now available to buy and sell on Kuyumcu. Buy and sell Azero with Nano here: [azero.nano.trade](https://azero.nano.trade)
 
 ## What is Aleph Zero?
