@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Kuyumcu update"
+author: "nano.trade"
+tags: Kuyumcu
+---
+
 # Kuyumcu Update (11.07.2020)
 
 Kuyumcu, a simple way to buy and sell Banano using Nano, is here with an update.

@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Statistics page"
+author: "nano.trade"
+tags: Kuyumcu
+---
+
 # Statistics page
 
 A statistics page for Kuyumcu is now available. [Click here to see the statistics.](https://banano.nano.trade/stats)

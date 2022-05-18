@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Confirmation delays on the Nano network"
+author: "nano.trade"
+tags: Banano
+---
+
 # Confirmation delays on the Nano network
 
 The problem of long confirmation times after the spam attack on the Nano network caused Kuyumcu to be temporarily closed. Here are some details.
