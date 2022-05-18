@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azero is available on Kuyumcu"
+title: "Aleph Zero is available on Kuyumcu"
 author: "nano.trade"
 tags: Azero
 ---
