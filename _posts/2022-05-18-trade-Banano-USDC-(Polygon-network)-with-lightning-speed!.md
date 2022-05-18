@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Trade Banano/USDC (Polygon network) with lightning speed!"
+author: "nano.trade"
+tags: Banano
+excerpt_separator: <!--more-->
+hidden: true
+---
 Do you want to buy and sell Banano directly with dollars? Here's our solution!
 
 Trade USDC (Polygon network) with Banano here: [usdc.banano.trade](https://usdc.banano.trade "Banano/USDC Kuyumcu")
