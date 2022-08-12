@@ -10,7 +10,7 @@ Initially, Moons were on the Rinkeby network. Then, it moved to a private Arbitr
 
 Now, Moons are on the mainnet (Arbitrum Nova Chain)! Here's the link for viewing Moon transactions using the block explorer: [https://nova-explorer.arbitrum.io/token/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0/token-transfers](https://nova-explorer.arbitrum.io/token/0x0057Ac2d777797d31CD3f8f13bF5e927571D6Ad0/token-transfers)
 
-See on Reddit: ["Pack your Moons, we’re moving to mainnet!"](https://www.reddit.com/r/CryptoCurrency/comments/wk75p2/pack_your_moons_were_moving_to_mainnet)
+See on Reddit: ["Pack your Moons, we're moving to mainnet!"](https://www.reddit.com/r/CryptoCurrency/comments/wk75p2/pack_your_moons_were_moving_to_mainnet)
 
 # How can I buy Moons from Kuyumcu?
 1. Go to [moon.nano.trade](https://moon.nano.trade), press the "BUY MOON" button.
