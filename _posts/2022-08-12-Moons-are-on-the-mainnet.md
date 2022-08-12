@@ -14,7 +14,7 @@ See on Reddit: ["Pack your Moons, we’re moving to mainnet!"](https://www.reddit.
 
 # How can I buy Moons from Kuyumcu?
 1. Go to [moon.nano.trade](https://moon.nano.trade), press the "BUY MOON" button.
-2. Enter your Ethereum address. If you want to receive Moons to your Reddit Vault, you can find the Ethereum address of your Vault by following this path: Open Reddit App -> Go to Vault -> Click the three dots (•••) -> your address is here, starting with 0x. You can long press to copy your address to your clipboard.
+2. Enter your Ethereum address. If you want to receive Moons to your Reddit Vault, you can find the Ethereum address of your Vault by following this path: Open Reddit App -> Go to Vault -> Click the three dots ("...") -> your address is here, starting with 0x. You can long press to copy your address to your clipboard.
 3. You'll see a Nano deposit address. Send Nano (XNO) to that address, within the specified minimum-maximum amounts. Please use [Nault.cc](nault.cc) as a web wallet or Natrium as a mobile wallet for the best Nano experience.
 4. You'll receive Moons to your address, right after your Nano deposit arrives!
 
